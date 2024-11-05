@@ -1,5 +1,7 @@
 ---
-title: "Weiran Xiong"
 layout: home
+permalink: /
+title: "Weiran Xiong"
 ---
-Hello! I am Weiran Xiong, a M.Phil. student at Fudan University.
+
+Welcome to my homepage! I am Weiran Xiong, a M.Phil. student in mathematics at Fudan University. Below you can find more about me, my research interests, and my publications.
