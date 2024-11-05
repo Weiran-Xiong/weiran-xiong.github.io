@@ -4,6 +4,14 @@ title: "Weiran Xiong"
 author_profile: true
 ---
 
+<style>
+  .author__avatar {
+      width: 300px;  /* 自定义头像的宽度 */
+      height: auto;
+      border-radius: 10%;
+  }
+</style>
+
 ## Research Interests
 - Stochastic Control
 - Mathematical Finance
@@ -18,9 +26,4 @@ Here are some of my selected publications:
 
 ## Contact Information
 Office: Room X, Building Y, Fudan University  
-Email: [24210850005@m.fudan.edu.cn](mailto:24210850005@m.fudan.edu.cn)
-
-## Links
-- [GitHub](https://github.com/Weiran-Xiong)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 
