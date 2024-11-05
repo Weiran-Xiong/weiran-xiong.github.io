@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    width: 75%;  /* 内容区域占页面的 70% */
+    width: 75%;  /* 内容区域占页面的 75% */
     padding: 2rem;
     background: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
