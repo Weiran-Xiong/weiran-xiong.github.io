@@ -124,8 +124,8 @@ author:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/Weiran-Xiong"
-    - label              : "fab fa-fw fa-LinkedIn"
-      icon               : "fa-linkedin"
+    - label              : "LinkedIn"
+      icon               : "fab fa-fw fa-linkedin"
       url                : "https://www.linkedin.com/in/your-linkedin/"
 
     #- label: "Website"

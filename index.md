@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Weiran Xiong's Homepage"
 author_profile: true
 ---
