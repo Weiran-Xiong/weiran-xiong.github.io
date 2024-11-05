@@ -1,0 +1,36 @@
+body {
+    font-size: 14px; /* 调整全局字体大小 */
+    line-height: 1.4; /* 调整行距 */
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.sidebar {
+    width: 20%;  /* 侧边栏占页面的 20% */
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+}
+
+.container {
+    width: 75%;  /* 内容区域占页面的 70% */
+    padding: 2rem;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px; /* 也可以限制内容区域的最大宽度以提高阅读体验 */
+}
+
+.profile-img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;  /* 限制头像最大宽度，防止在小屏幕上过大 */
+    border-radius: 10%;
+    object-fit: cover;
+}
