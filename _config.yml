@@ -36,6 +36,18 @@ author:
       icon: "fa-linkedin"
       url: "https://www.linkedin.com/in/your-linkedin/"
 
+# Home layout configuration to include sections
+home_layout:
+  - type: about
+    title: "About Me"
+    content: "I am Weiran Xiong, currently a M.Phil. student in mathematics at Fudan University. My research interests include stochastic control, mathematical finance, mean field games and reinforcement learning."
+
+  - type: publications
+    title: "Publications"
+    content: |
+      - Author A, Author B, **Weiran Xiong**, "Title of the Paper", *Journal Name*, Year.
+      - Author C, **Weiran Xiong**, Author D, "Another Paper", *Conference Name*, Year.
+
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
