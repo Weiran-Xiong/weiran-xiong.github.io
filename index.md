@@ -4,11 +4,9 @@ permalink: /
 title: "Weiran Xiong"
 ---
 
-![Weiran Xiong's Profile Picture](/assets/images/profile.jpg)
-
 <div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
-    <img src="/assets/images/profile.jpg" alt="Weiran Xiong's profile picture" style="width: 150px; border-radius: 10%;">
+    <img src="/assets/images/profile.jpg" alt="Weiran Xiong's profile picture" style="width: 300px; border-radius: 10%;">
     <div style="margin-top: 10px;">
       <a href="https://github.com/Weiran-Xiong" target="_blank">GitHub</a><br>
       <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a>
