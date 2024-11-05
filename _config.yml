@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 
-title                    : "Weiran Xiong"
+# title                    : "Weiran Xiong"
 description              : "M.Phil. student in Mathematics, Fudan University."
 baseurl                  : "" # 由于这是个人主页，保持为空
 url                      : "https://weiran-xiong.github.io" # 您的 GitHub Pages URL
