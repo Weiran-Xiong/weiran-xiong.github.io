@@ -122,9 +122,9 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "24210850005@m.fudan.edu.cn"
     - label              : "GitHub"
-      icon               : "fa-github"
+      icon               : "fab fa-fw fa-github"
       url                : "https://github.com/Weiran-Xiong"
-    - label              : "LinkedIn"
+    - label              : "fab fa-fw fa-LinkedIn"
       icon               : "fa-linkedin"
       url                : "https://www.linkedin.com/in/your-linkedin/"
 

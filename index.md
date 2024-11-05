@@ -4,14 +4,6 @@ title: "Weiran Xiong's Homepage"
 author_profile: true
 ---
 
-<style>
-  .author__avatar {
-      width: 800px;  /* 自定义头像的宽度 */
-      height: auto;
-      border-radius: 10%;
-  }
-</style>
-
 ## Research Interests
 - Stochastic Control
 - Mathematical Finance
