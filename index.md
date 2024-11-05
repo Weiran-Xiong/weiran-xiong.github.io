@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 title: "Weiran Xiong"
+author_profile: true
 ---
 
 <div style="display: flex; align-items: flex-start;">

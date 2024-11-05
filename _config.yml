@@ -17,24 +17,24 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Weiran Xiong"
-subtitle                 : # site tagline that appears below site title in masthead
-title_separator          : "-"
-email: "24210850005@m.fudan.edu.cn"
-description: "M.Phil. student in Mathematics, Fudan University. "
-baseurl: "" # 由于这是个人主页，保持空
-url: "https://weiran-xiong.github.io" # 您的 GitHub Pages URL
+
+title                    : "Weiran Xiong's Academic Page"
+email                    : "24210850005@m.fudan.edu.cn"
+description              : "M.Phil. student in Mathematics, Fudan University."
+baseurl                  : "" # 由于这是个人主页，保持为空
+url                      : "https://weiran-xiong.github.io" # 您的 GitHub Pages URL
 author:
-  name: "Weiran Xiong"
-  avatar: "/assets/images/profile.jpg" # 头像图片的路径
-  bio: "M.Phil. student in Mathematics, Fudan University. "
+  name                   : "Weiran Xiong"
+  avatar                 : "/assets/images/profile.jpg" # 上传您头像的路径
+  bio                    : "M.Phil. student in Mathematics, Fudan University."
   links:
-    - label: "GitHub"
-      icon: "fa-github"
-      url: "https://github.com/Weiran-Xiong"
-    - label: "LinkedIn"
-      icon: "fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin/"
+    - label              : "GitHub"
+      icon               : "fa-github"
+      url                : "https://github.com/Weiran-Xiong"
+    - label              : "LinkedIn"
+      icon               : "fa-linkedin"
+      url                : "https://www.linkedin.com/in/your-linkedin/"
+
 
 # Layout settings for wider content
 layout:
