@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Weiran Xiong"
+title: "Weiran Xiong's Homepage"
 author_profile: true
 ---
 
 <style>
   .author__avatar {
-      width: 300px;  /* 自定义头像的宽度 */
+      width: 800px;  /* 自定义头像的宽度 */
       height: auto;
       border-radius: 10%;
   }
