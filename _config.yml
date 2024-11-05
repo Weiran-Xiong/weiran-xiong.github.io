@@ -19,21 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 
 title                    : "Weiran Xiong"
-email                    : "24210850005@m.fudan.edu.cn"
 description              : "M.Phil. student in Mathematics, Fudan University."
 baseurl                  : "" # 由于这是个人主页，保持为空
 url                      : "https://weiran-xiong.github.io" # 您的 GitHub Pages URL
-author:
-  name                   : "Weiran Xiong"
-  avatar                 : "/assets/images/profile.jpg" # 上传您头像的路径
-  bio                    : "M.Phil. student in Mathematics, Fudan University."
-  links:
-    - label              : "GitHub"
-      icon               : "fa-github"
-      url                : "https://github.com/Weiran-Xiong"
-    - label              : "LinkedIn"
-      icon               : "fa-linkedin"
-      url                : "https://www.linkedin.com/in/your-linkedin/"
 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -124,30 +112,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Weiran Xiong"
+  avatar           : "/assets/images/profile.jpg" # 上传您头像的路径
+  bio              : "M.Phil. student in Mathematics, Fudan University."
+  location         : "Shanghai, China"
+  email            : "24210850005@m.fudan.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "24210850005@m.fudan.edu.cn"
+    - label              : "GitHub"
+      icon               : "fa-github"
+      url                : "https://github.com/Weiran-Xiong"
+    - label              : "LinkedIn"
+      icon               : "fa-linkedin"
+      url                : "https://www.linkedin.com/in/your-linkedin/"
+
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+     # # url: "https://twitter.com/"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+   #   # url: "https://facebook.com/"
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url: "https://github.com/"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+     # # url: "https://instagram.com/"
 
 # Site Footer
 footer:
