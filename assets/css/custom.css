@@ -1,5 +1,6 @@
 body {
     font-size: 14px; /* 调整全局字体大小 */
+    font-family: 'Arial', sans-serif; /* 你可以指定你想要的字体 */
     line-height: 1.4; /* 调整行距 */
     display: flex;
     flex-direction: row;
@@ -8,6 +9,15 @@ body {
     background-color: #f0f0f0;
     color: #333;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif; /* 为标题设置不同的字体 */
+}
+
+p {
+    font-family: 'Roboto', sans-serif; /* 设定段落的字体 */
+}
+
 
 .sidebar {
     width: 20%;  /* 侧边栏占页面的 20% */
