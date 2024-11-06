@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to Weiran Xiong's Homepage"
+title: "Weiran Xiong's Homepage"
 author_profile: true
 ---
 

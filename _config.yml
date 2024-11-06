@@ -29,7 +29,7 @@ logo: ""  # Path of logo image to display in the masthead, e.g. "/assets/images/
 masthead_title: ""  # Overrides the website title displayed in the masthead, use "" for no title
 
 layout:
-  width: "wide"  # Could also be "narrow" or "default"
+  width: "default"  # Could also be "narrow" or "wide" or "default"
 
 breadcrumbs: false
 words_per_minute: 200
