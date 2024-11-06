@@ -9,7 +9,6 @@ Hi! I am Weiran Xiong, M.Phil. student in Mathematics at [Research Institute of 
 
 Below, you can learn more about me: my academic journey, research interests, and selected publications. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
-
 ## Research Interests
 - Stochastic Control
 - Mathematical Finance
@@ -21,7 +20,7 @@ Below, you can learn more about me: my academic journey, research interests, and
 - Author A, Author B, **Weiran Xiong**, "Title of the Paper", *Journal Name*, Year.
 - Author C, **Weiran Xiong**, Author D, "Another Paper", *Conference Name*, Year.
 
-## Awards
+## Honors and Awards
 Here are some of my selected awards:
 - A
 - B
