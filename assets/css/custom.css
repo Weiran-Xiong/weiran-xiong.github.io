@@ -1,5 +1,5 @@
 body {
-    font-size: 14px; /* 调整全局字体大小 */
+    font-size: 20px !important; /* 调整全局字体大小 */
     font-family: 'Arial', sans-serif; /* 你可以指定你想要的字体 */
     line-height: 1.4; /* 调整行距 */
     display: flex;
