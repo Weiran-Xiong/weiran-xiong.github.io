@@ -4,7 +4,7 @@ title: "Weiran Xiong's Homepage"
 author_profile: true
 ---
 
- ## About Me
+## About Me
 Welcome to my homepage! I am Weiran Xiong, a M.Phil. student in mathematics at Fudan University. Before that, I obtained a dual bachelor's degree in mathematics and economics from Sichuan University. Below you can find more about me, my research interests, and my publications.
 
 ## Research Interests
