@@ -12,14 +12,14 @@
 
 # theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"  # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 rtl: false  # true, false (default) # turns direction of the page into right to left for RTL languages
 
 title: "Weiran Xiong"
-description: "M.Phil. student in Mathematics, Fudan University."
+description: "M.Phil. student in Math, FDU"
 baseurl: ""  # Keep blank for GitHub Pages personal homepage
 url: "https://weiran-xiong.github.io"  # Your GitHub Pages URL
 
