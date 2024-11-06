@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## About Me
-Welcome to my homepage! I am Weiran Xiong, a M.Phil. student in mathematics at Fudan University. Before that, I obtained a dual bachelor's degree in mathematics and economics from Sichuan University. Below you can find more about me, my research interests, and my publications.
+Welcome to my homepage! I am Weiran Xiong, a M.Phil. student in mathematics at Research Institute of Intelligent Complex Systems, Fudan University. Before that, I obtained a dual bachelor's degree in mathematics and economics from Sichuan University. Below, you can learn more about me: my research interests, academic journey, and selected publications. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 ## Research Interests
 - Stochastic Control
