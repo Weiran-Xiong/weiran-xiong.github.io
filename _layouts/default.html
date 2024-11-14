@@ -1,0 +1,47 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}
+          <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+    <!-- Visitor Counter - Add it before the closing body tag -->
+    <div align="center">
+      <a href="https://info.flagcounter.com/cRvL">
+        <img src="https://s01.flagcounter.com/count2/cRvL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_21/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+      </a>
+    </div>
+
+    <!-- ClustrMaps Visitor Map - Add it before the closing body tag with limited size -->
+    <div align="center" style="max-width: 720px; margin: 0 auto;">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eXZJxq4G9MwXNLHPN_Fbw7ELt8j1mtq-O_oM1Bvy8qo&cl=ffffff&w=a"></script>
+    </div>
+
+  </body>
+</html>
