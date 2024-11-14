@@ -22,17 +22,17 @@ Hi! I am Weiran Xiong, an M.Phil. student in Mathematics at the [Research Instit
 I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I am currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='-news'></span>  # 与navigation.yml对应
 <!-- # 🔥 News -->
 
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2024.09 - Present*, M.Phil. in Mathematics, Fudan University, Shanghai, China.
 - *2020.09 - 2024.06*, B.S. in Mathematics and Economics, Sichuan University, Chengdu, China.
 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='-publications'></span>
 <!-- # 📝 Publications -->
 
 
@@ -44,17 +44,17 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 - *2021.10*, Outstanding Student of Sichuan University.
  
 
-<span class='anchor' id='visits-and-conferences'></span>
+<span class='anchor' id='-visits-and-conferences'></span>
 # 💬 Visits and Conferences
 - *2024.07 - 2024.08*, The Chinese University of Hong Kong, Shenzhen, School of Data Science, Data Science Summer School, Shenzhen, China.
 
 
-<span class='anchor' id='teaching'></span>
+<span class='anchor' id='-teaching'></span>
 # 🧑‍🏫 Teaching
 - Fudan University, Teaching Assistant, MATH120003: Advanced Mathematics B I, Fall 2024.
 
 
-<span class='anchor' id='internships'></span>
+<span class='anchor' id='-internships'></span>
 <!-- # 💻 Internships -->
 
 
