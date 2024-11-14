@@ -36,7 +36,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 <!-- # 📝 Publications -->
 
 
-<span class='anchor' id='honors-and-awards'></span>
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
 - *2024.06*, Outstanding Graduate of Sichuan University.
 - *2023.10*, Outstanding Student Cadre of Sichuan University.
