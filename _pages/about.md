@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Weiran Xiong, an M.Phil. student in Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/_s599/ywb/main.psp), [Fudan University](https://www.fudan.edu.cn/en/). I am delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), and with the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the School of Mathematics and the School of Economics.
+Hi! I am Weiran Xiong, an M.Phil. student in Applied Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/_s599/ywb/main.psp), [Fudan University](https://www.fudan.edu.cn/en/). I am delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), and with the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the School of Mathematics and the School of Economics.
 
 My research interests include:
 - Mathematical Finance
@@ -34,7 +34,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2024.09 - Present*, M.Phil. in Mathematics, Fudan University, Shanghai, China.
+- *2024.09 - Present*, M.Phil. in Applied Mathematics, Fudan University, Shanghai, China.
 - *2020.09 - 2024.06*, B.S. in Mathematics and Economics, Sichuan University, Chengdu, China.
 
 
