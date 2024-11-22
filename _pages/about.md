@@ -25,7 +25,7 @@ My research interests include:
 - Numerical Method and Simulation
 - Machine Learning and Reinforcement Learning
 
-I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I am currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
+I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I'm currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 
 <span class='anchor' id='-news'></span>        <!-- 与navigation.yml对应 -->
