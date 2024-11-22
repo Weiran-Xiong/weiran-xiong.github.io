@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Weiran Xiong, an M.Phil. student in Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/_s599/ywb/main.psp), [Fudan University](https://www.fudan.edu.cn/en/). I am delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), and with the Division of Financial Mathematics and Control Sciences at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the School of Mathematics and the School of Economics.
+Hi! I am Weiran Xiong, an M.Phil. student in Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/_s599/ywb/main.psp), [Fudan University](https://www.fudan.edu.cn/en/). I am delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), and with the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the School of Mathematics and the School of Economics.
 
-I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I am currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
+My research interests include:
+- Mathematical Finance
+- Stochastic Control and Games
+- Numerical Method and Simulation
+- Machine Learning and Reinforcement Learning
+
+I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I am currently exploring and establishing my own research direction, . If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 
 <span class='anchor' id='-news'></span>        <!-- 与navigation.yml对应 -->
