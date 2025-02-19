@@ -21,9 +21,9 @@ Hi! I'm Weiran Xiong, an M.Phil. student in Applied Mathematics at the [Research
 
 My research interests include:
 - Mathematical Finance
-- Stochastic Control and Games
+- Deep Learning and Reinforcement Learning
 - Numerical Method and Simulation
-- Machine Learning and Reinforcement Learning
+- Stochastic Control and Games
 
 I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I'm currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
