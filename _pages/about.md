@@ -25,7 +25,7 @@ My research interests include:
 - Numerical Method and Simulation
 - Stochastic Control and Games
 
-I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. I'm currently exploring and establishing my own research direction. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
+I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 
 <span class='anchor' id='-news'></span>        <!-- 与navigation.yml对应 -->
@@ -56,7 +56,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 
 
 <span class='anchor' id='-teaching'></span>
-# 🧑‍🏫 Teaching
+# 🧑‍🏫 Teaching Assistant
 - Fudan University, Teaching Assistant, MATH120003: Advanced Mathematics B I, Fall 2024.
 - Fudan University, Teaching Assistant, AIS410008: Deep Learning Algorithm for High-Dimensional PDEs, Spring 2025.
 
