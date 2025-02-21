@@ -56,7 +56,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 
 
 <span class='anchor' id='-teaching'></span>
-# 🧑‍🏫 Teaching Assistant
+# 🧑‍🏫 Teaching Assistants
 - Fudan University, Teaching Assistant, MATH120003: Advanced Mathematics B I, Fall 2024.
 - Fudan University, Teaching Assistant, AIS410008: Deep Learning Algorithm for High-Dimensional PDEs, Spring 2025.
 
