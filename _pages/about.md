@@ -64,11 +64,3 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 <span class='anchor' id='-internships'></span>
 <!-- # 💻 Internships -->
 
-<br>
-<hr>
-<p style="text-align: center;">
-  <a href="https://clustrmaps.com/site/1c279" title="Visitor Map">
-    <img src="//clustrmaps.com/map_v2.png?d=1c279" style="width: 100%; max-width: 600px; border: none;" alt="ClustrMaps Visitor Map" />
-  </a>
-</p>
-
