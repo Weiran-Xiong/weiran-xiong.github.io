@@ -23,7 +23,6 @@ My research interests include:
 - Mathematical Finance
 - Deep Learning and Reinforcement Learning
 - Numerical Method and Simulation
-- Stochastic Control and Games
 
 I have a strong interest in interdisciplinary research, particularly at the intersection of Mathematics, Data Science, and Finance. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
