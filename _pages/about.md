@@ -54,7 +54,7 @@ I am passionate about developing innovative mathematical and computational appro
 - *2026.07 - 2026.08*, Summer School on Financial Mathematics and Financial Engineering, Southwestern University of Finance and Economics, Chengdu, China.
 - *2026.07*, Talk, The 11th Shanghai International Symposium on Nonlinear Sciences and Applications, Guilin, China.
 - *2025.12*, Talk, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China.
-- *2024.07 - 2024.08*, Summer School on Data Science, The Chinese University of Hong Kong (Shenzhen), China.
+- *2024.07 - 2024.08*, Summer School on Data Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China.
 
 
 <span class='anchor' id='-honors-and-awards'></span>
