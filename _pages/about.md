@@ -32,6 +32,11 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 <!-- # 🔥 News -->
 
 
+<span class='anchor' id='-working-papers-and-preprints'></span>
+# 📝 Working Papers and Preprints
+- Xinyu Cheng, Yunzhang Li, and **Weiran Xiong**. [Deep Truncated FBSDE Method: A Robust Solver for High-Dimensional Nonlinear PDEs and Fully Coupled FBSDEs](https://arxiv.org/abs/2609.39616). Preprint, 2026.
+
+
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2026.09 - Present*, Ph.D. in Applied Mathematics, Fudan University, Shanghai, China.
