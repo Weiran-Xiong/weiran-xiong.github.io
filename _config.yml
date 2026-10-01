@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weiran Xiong"
-  avatar           : "images/weiranxiong_square.jpg"
+  avatar           : "images/profile.png"
   bio              : # "FDU"
   location         : "Shanghai, China"
   employer         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0001-2325-6098"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
