@@ -25,7 +25,7 @@ My research interests include:
 - Mathematical Finance
 - Reinforcement Learning
 
-My research interests lie at the intersection of Applied Mathematics, Machine Learning, and Quantitative Finance. I am interested in developing innovative mathematical and computational approaches that integrate mathematical theory with data-driven techniques to address challenging problems in science, engineering, and finance. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
+I am passionate about developing innovative mathematical and computational approaches that integrate mathematical theory with data-driven techniques to address challenging problems in science, engineering, and finance. If you are interested in any aspect of me, feel free to reach out for chats, discussions, and collaborations!
 
 
 <span class='anchor' id='-news'></span>        <!-- 与navigation.yml对应 -->
