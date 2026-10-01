@@ -9,7 +9,7 @@ main:
   - title: "Working Papers and Preprints"
     url: "/#-working-papers-and-preprints"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
 
   #- title: "Publications"
@@ -21,7 +21,7 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Teaching Assistants"
+  - title: "Teaching Experience"
     url: "/#-teaching"
 
   #- title: "Internships"

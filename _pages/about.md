@@ -38,7 +38,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 
 
 <span class='anchor' id='-educations'></span>
-# 📖 Educations
+# 📖 Education
 - *2026.09 - Present*, Ph.D. in Applied Mathematics, Fudan University, Shanghai, China.
 - *2024.09 - 2026.08*, M.Phil. in Applied Mathematics, Fudan University, Shanghai, China.
 - *2020.09 - 2024.06*, B.S. in Mathematics and Economics, Sichuan University, Chengdu, China.
@@ -67,7 +67,7 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 
 
 <span class='anchor' id='-teaching'></span>
-# 🧑‍🏫 Teaching Assistants
+# 🧑‍🏫 Teaching Experience
 - Fudan University, Teaching Assistant, AIS410008: Deep Learning Algorithm for High-Dimensional PDEs, Spring 2025.
 - Fudan University, Teaching Assistant, MATH120003: Advanced Mathematics B I, Fall 2024.
 

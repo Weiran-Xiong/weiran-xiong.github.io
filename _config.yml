@@ -9,6 +9,8 @@
 title                    : "Weiran Xiong"
 description              : "Ph.D. student in Math, Fudan University"
 repository               : "Weiran-Xiong/weiran-xiong.github.io"
+url                      : "https://weiran-xiong.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : false
 
 # google analytics
