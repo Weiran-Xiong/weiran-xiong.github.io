@@ -48,15 +48,6 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 <!-- # 📝 Publications -->
 
 
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖️ Honors and Awards
-- *2024.06*, Honors Graduate of Sichuan University.
-- *2024.06*, Outstanding Graduate of Sichuan University.
-- *2023.10*, Outstanding Student Cadre of Sichuan University.
-- *2022.10*, Outstanding Student of Sichuan University.
-- *2021.10*, Outstanding Student of Sichuan University.
- 
-
 <span class='anchor' id='-visits-and-conferences'></span>
 # 💬 Visits and Conferences
 - *2026.09*, Poster presentation, Workshop on Recent Trends in Applied Mathematics and Machine Learning, Jilin University, Changchun, China.
@@ -64,6 +55,15 @@ I have a strong interest in interdisciplinary research, particularly at the inte
 - *2026.07*, Talk, The 11th Shanghai International Symposium on Nonlinear Sciences and Applications, Guilin, China.
 - *2025.12*, Talk, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.07 - 2024.08*, Summer School on Data Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China.
+
+
+<span class='anchor' id='-honors-and-awards'></span>
+# 🎖️ Honors and Awards
+- *2024.06*, Honors Graduate of Sichuan University.
+- *2024.06*, Outstanding Graduate of Sichuan University.
+- *2023.10*, Outstanding Student Cadre of Sichuan University.
+- *2022.10*, Outstanding Student of Sichuan University.
+- *2021.10*, Outstanding Student of Sichuan University.
 
 
 <span class='anchor' id='-teaching'></span>

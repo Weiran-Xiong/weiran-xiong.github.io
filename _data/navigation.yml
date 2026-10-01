@@ -15,11 +15,11 @@ main:
   #- title: "Publications"
     #url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Visits and Conferences"
     url: "/#-visits-and-conferences"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Teaching Assistants"
     url: "/#-teaching"
