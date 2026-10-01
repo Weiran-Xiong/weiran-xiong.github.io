@@ -6,7 +6,7 @@ main:
   #- title: "News"
     #url: "/#-news"
 
-  - title: "Working Papers and Preprints"
+  - title: "Working Papers"
     url: "/#-working-papers-and-preprints"
 
   - title: "Education"
