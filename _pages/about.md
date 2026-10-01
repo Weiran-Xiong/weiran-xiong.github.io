@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Weiran Xiong, a Ph.D. student in Applied Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). I'm delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), and co-advised by Prof. [Xinyu Cheng](https://faculty.fudan.edu.cn/%7EEjUrY3/zh_CN/index.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the [School of Mathematics](https://math.scu.edu.cn/) and the [School of Economics](https://sesu.scu.edu.cn/).
+Hi! I'm Weiran Xiong, a Ph.D. student in Applied Mathematics at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). I'm delighted to study and conduct my research under the supervision of Prof. [Yunzhang Li](https://faculty.fudan.edu.cn/li_yunzhang/zh_CN/index/665374/list/index.htm), with guidance from Prof. [Xinyu Cheng](https://faculty.fudan.edu.cn/%7EEjUrY3/zh_CN/index.htm). Before that, I earned a dual B.S. degree in Mathematics and Economics from [Sichuan University](https://en.scu.edu.cn/), graduating with honors from a Specialized Class jointly cultivated by the [School of Mathematics](https://math.scu.edu.cn/) and the [School of Economics](https://sesu.scu.edu.cn/).
 
 My research interests include:
 - Scientific Machine Learning
